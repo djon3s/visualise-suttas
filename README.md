@@ -9,4 +9,4 @@ TODO:
 
 [1] essentially the same but now do it for Mahijama Nikaya, Digha etc and combine into a single command line app with flags 
 
-[2] instead of outputting an svg or pdf can we use the graphviz file to instead serve to an interactive graph GUI like with d3 in the browser? 
+[2] instead of outputting an svg or pdf can we use the graphviz file to instead serve to an interactive graph GUI like with d3 in the browser?  e.g. possibly use https://github.com/magjac/d3-graphviz
